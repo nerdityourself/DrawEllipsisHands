@@ -1,6 +1,6 @@
 # DrawEllipsisHands
 
-##Semplice esempio di utilizzo del Kinect con Processing per il disegno di forme astratte fatte con ellissi che seguono il movimento delle mani..
+##Semplice esempio di utilizzo del Kinect con Processing per il disegno di forme astratte fatte con ellissi che seguono il movimento delle mani.
 
 - Processing - Scaricabile da https://processing.org/download/?processing. Per utilizzare questo esempio è necessaria la versione 2.2.1, e NON l'ultima rilasciata a causa di problemi di incompatibilità con la libreria del Kinect. 
 
